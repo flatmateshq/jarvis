@@ -4,9 +4,14 @@
   "hubot-heroku-keepalive",
   "hubot-google-images",
   "hubot-google-translate",
-  "hubot-pugme",
   "hubot-maps",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-github"
+  "hubot-github",
+  "hubot-victory",
+  "hubot-tell",
+  "hubot-principles",
+  "hubot-codinglove",
+  "hubot-reaction",
+  "hubot-google-hangouts"
 ]
